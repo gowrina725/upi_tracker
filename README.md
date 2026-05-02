@@ -8,7 +8,7 @@ Built for Hackathon
 
 ##  Problem Statement
 
-Users frequently make UPI payments but forget to manually track their expenses.  
+Users frequently make UPI payments but forget to manually track their expenses.   
 This leads to poor financial visibility and budgeting issues.
 
 This app reduces friction by:
